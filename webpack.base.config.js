@@ -1,6 +1,7 @@
 /* eslint-disable */
 var webpack = require('webpack')
 var ChunkManifestPlugin = require('chunk-manifest-webpack-plugin')
+var HtmlWebpackPlugin = require('html-webpack-plugin');
 require('babel-polyfill')
 
 module.exports = {
@@ -15,7 +16,11 @@ module.exports = {
     }),
     new webpack.optimize.CommonsChunkPlugin({
       names: ['vendor', 'manifest'],
-    })
+    }),
+    new HtmlWebpackPlugin({
+      template: './assets/index.template.ejs',
+      inject: 'body',
+    }),
   ],
   resolve: {
     // all these extensions will be resolved without specifying extension in the `require` function

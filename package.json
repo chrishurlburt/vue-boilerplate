@@ -49,8 +49,10 @@
   "license": "MIT",
   "dependencies": {
     "babel-preset-stage-0": "^6.16.0",
+    "chokidar": "^1.6.1",
     "chunk-manifest-webpack-plugin": "0.1.0",
     "foundation-sites": "^6.2.0",
+    "html-webpack-plugin": "^2.26.0",
     "rimraf": "^2.5.4",
     "vue": "^2.1.8",
     "vue-resource": "^1.0.3",
