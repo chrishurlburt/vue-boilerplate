@@ -27,5 +27,10 @@ This is a loosely opinionated boilerplate designed to get your next app off the 
 
 ## Documentation
 
-Documentation coming soon.
+**Getting Started**
++ Clone this repo
++ cd into directory and run 'yarn'
++ run 'npm run dev' to launch the dev server
+
+Complete documentation coming soon.
 
