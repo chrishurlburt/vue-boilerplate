@@ -1,14 +1,18 @@
 <template>
   <main id="app">
-    <h1>VueJS 2 Boilerplate</h1>
+    <Welcome></Welcome>
   </main>
 </template>
 
 <script>
 import { mapGetters, mapActions } from 'vuex'
+import Welcome from './components/Welcome.vue'
 
 export default {
   name: 'App',
+  components: {
+    Welcome,
+  },
   computed: {
     ...mapGetters([]),
   },
