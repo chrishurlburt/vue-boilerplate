@@ -25,6 +25,10 @@ This is a loosely opinionated boilerplate designed to get your next app off the 
 **Foundation**
 + Foundation Sites 6.3
 
+**ESLint**
++ Extends AirBnB config
++ Webpack resolver plugin
+
 ## Documentation
 
 **Getting Started**
