@@ -1,5 +1,5 @@
 # Vue.js Boilerplate
-This is a loosely opinionated boilerplate designed to get your next app off the ground as quickly as possible. Vue.js Boilterplate implements some basic configuration and folder structure to rapidly scaffold your Vue project with the latest Vue plugins, asset compilation pipeline and CSS framework.
+This is a loosely opinionated boilerplate designed to get your next app off the ground as quickly as possible. Vue.js Boilerplate implements some basic configuration and folder structure to rapidly scaffold your Vue project with the latest Vue plugins, asset compilation pipeline and CSS framework.
 
 ### Features
 ---
