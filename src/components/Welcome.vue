@@ -4,7 +4,7 @@
       <div class="layout-row">
         <div class="intro">
           <h1 class="welcome-title">Vue.JS Boilerplate</h1>
-          <a href="https://github.com/chrishurlburt" target="blank" class="documentation">Documentation</a>
+          <a href="https://github.com/chrishurlburt/vue-boilerplate/blob/develop/README.md" target="blank" class="documentation">Documentation</a>
         </div>
         <div class="logos-wrap">
           <div class="logo">
