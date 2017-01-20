@@ -1,7 +1,7 @@
 import Vue from 'vue'
 // import VueResource from 'vue-resource'
 // import VueRouter from 'vue-router'
-import App from './App.vue'
+import App from './App'
 import store from './vuex'
 
 require('../assets/scss/main.scss')

@@ -51,6 +51,7 @@
     "babel-preset-stage-0": "^6.16.0",
     "chokidar": "^1.6.1",
     "chunk-manifest-webpack-plugin": "0.1.0",
+    "eslint-import-resolver-webpack": "^0.8.1",
     "foundation-sites": "^6.2.0",
     "html-webpack-plugin": "^2.26.0",
     "rimraf": "^2.5.4",

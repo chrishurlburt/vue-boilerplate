@@ -6,7 +6,7 @@
 
 <script>
 import { mapGetters, mapActions } from 'vuex'
-import Welcome from './components/Welcome.vue'
+import Welcome from './components/Welcome'
 
 export default {
   name: 'App',
