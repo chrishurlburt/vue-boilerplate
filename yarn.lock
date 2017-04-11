@@ -4873,7 +4873,7 @@ vue-resource@^1.2.1:
   dependencies:
     got "^6.7.1"
 
-vue-router@^2.3.0:
+vue-router@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-2.4.0.tgz#56a635e1434a1966ac095f2a485bebdcfc36cec5"
 

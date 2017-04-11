@@ -7,7 +7,7 @@ This is a loosely opinionated boilerplate designed to get your next app off the 
 + Vue.js 2.2
 + Vuex 2.2
 + Vue Resource 1.2
-+ Vue Router 2.3
++ Vue Router 2.4
 + Vue Loader 11
 
 
