@@ -4,11 +4,11 @@ This is a loosely opinionated boilerplate designed to get your next app off the 
 ### Features
 ---
 **Vue.js**
-+ Vue.js 2.1
-+ Vuex 2.1
-+ Vue Resource 1
-+ Vue Router 2.1
-+ Vue Loader 10
++ Vue.js 2.2
++ Vuex 2.2
++ Vue Resource 1.2
++ Vue Router 2.3
++ Vue Loader 11
 
 
 **Webpack**
