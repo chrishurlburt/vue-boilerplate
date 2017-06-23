@@ -22,7 +22,8 @@ module.exports = function (env) {
               options: {
                 plugins: [
                   // require('autoprefixer')
-                ]
+                ],
+                sourceMap: true,
               }
             },
             {
