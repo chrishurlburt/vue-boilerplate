@@ -5,16 +5,15 @@ This Vue.js Boilerplate implements some basic configuration and folder structure
 
 ### Features
 ---
-**Vue.js**
-+ Vue.js 2.2
-+ Vuex 2.2
-+ Vue Resource 1.2
-+ Vue Router 2.4
-+ Vue Loader 11
-
+**Libraries**
++ Vue.js
++ Vuex
++ Vue Router
++ Axios HTTP client
 
 **Webpack**
-+ Basic, easy-to-understand Webpack 2 configuration
++ Basic, easy-to-understand Webpack configuration
++ Single file Vue components with vue-loader
 + Hot module replacement enabled development server
 + Code Splitting (vendor, framework, manifest, main) for cacheing and performance
 + Babel
@@ -32,7 +31,7 @@ This Vue.js Boilerplate implements some basic configuration and folder structure
 
 **Getting Started**
 + Clone this repo
-+ cd into directory and run 'yarn'
++ cd into directory and run 'npm install'
 + run 'npm run dev' to launch the dev server
 
 Complete documentation coming soon.
