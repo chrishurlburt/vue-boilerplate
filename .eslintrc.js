@@ -24,6 +24,8 @@ module.exports = {
     },
     rules: {
         'semi': [2, 'never'],
+        'no-return-assign': 0,
+        'no-use-before-define': 0,
         'no-underscore-dangle': 0,
         'arrow-body-style': 0,
         'no-param-reassign': 0,
